@@ -1,0 +1,14 @@
+K(30%): 90
+I(30%): 70
+C(10%): 50
+A(30%): 70
+74% of 90 - 66.6%
+
+When there is no @ symbol it crashes.
+When too long or too short, it prints an invalid output, then says valid after.
+Gmail is outputting valid twice. There is no space between Valid and Gmail Normalized.
++ and _ should not be allowed at the start or end of the email.
+Assignment name is wrong...and the author and the dates.
+Missing comments.
+
+Some good things and some things to work on in the future.
